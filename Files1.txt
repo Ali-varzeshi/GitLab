@@ -1,0 +1,5 @@
+git init
+git remote add origin https://gitlab.com/xxxxxxxxx/yourproject.git
+git add .
+git commit
+git push -u origin master
